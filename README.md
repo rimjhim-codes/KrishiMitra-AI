@@ -1,2 +1,4 @@
-# KrishiMitra-AI
-Air Quality Micro-Monitoring Network
+Team Name -KrishiMitra-AI
+Team code - UDB-4PDS
+
+
